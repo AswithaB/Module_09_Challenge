@@ -57,12 +57,6 @@ Another way to visualize these two distributions is via an overlapping Histogram
 ![Figure 3](Resources/Figure_3_Overlapping_Histogram.png "Figure 3")
 
 
-Since the Histogram in *Figure 3* does not explicitly display a temporal character, a time series of average temperature per month is plotted below in Figure 4. The average temperature of each June and December is highlighted on the plot according to the Legend, and guidelines for reference are shown on the y-axis at 70 deg F and 75 deg F.
-
-**Figure 4:**
-
-![Figure 4](Resources/Figure_4_Time_Series.png "Figure 4")
-
 To summarize the results more concisely, we should consider these three key differences between June and December:
 - **Difference 1**: The minimum temperature observed in December, at 56 deg F, is roughly 10 degrees lower than the minimum temperature observed in June. According to history and professional experience, is 56 deg F too low for most people to enjoy surfing and ice cream? During this time a seasonal closure of shop may be preferable to reduce costs and minimize overhead.
 - **Difference 2**: Not only do the minimum temperatures vary, but the average temperatures are consistently different as well. In June, the average temperature is consistently around 75 deg F, while in December it is consistently around 70 deg F. Again, the question must be asked: Does this consistent difference of an average of 5 degrees in temperature have a measurable impact on customer behavior and business returns?
