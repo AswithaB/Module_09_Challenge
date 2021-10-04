@@ -27,6 +27,25 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# USER Section
+# .DS_Store and Vim Hidden Files
+.DS_Store
+*.un~
+*.md~
+*.py~
+*.sql~
+*.swp
+.gitignore~
+..gitignore.un~
+*_NAMES.txt
+config.py
+*.zip
+Analysis/
+Metadata/
+Starter_Code/
+hawaii_original.sqlite
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
